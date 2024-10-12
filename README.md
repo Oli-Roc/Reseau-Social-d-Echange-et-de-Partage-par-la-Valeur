@@ -10,7 +10,7 @@ Notre objectif est de construire un écosystème où la monnaie n'est plus qu'un
 
 Le projet, sous licence Creative Commons Legal Code (CC0 1.0 Universal), se veut entièrement open-source, invitant les développeurs, les experts financiers, les comptables et les acteurs de la gouvernance à contribuer à son évolution. Le développement informatique de ce projet est en cours et son objectif est de créer le premier réseau social d'échange et de partage par la valeur. Ce réseau social aura vocation à fonctionner comme une méta DAO en fournissant tous les instruments de gestion monétaire (capital financier déposé), juridique (usufruit constitué), économique (algorithme de recherche opérationnelle) et politique (procédure de vote de préférence) pour permettre aux agents de mettre en oeuvre un développement humain sur la base de valeurs partagées.
 
-Les piliers fondateurs du projet
+# Les piliers fondateurs du projet
 
 1. Redistribution équitable des ressources financières
 
@@ -32,13 +32,13 @@ La gouvernance du réseau repose sur un système décentralisé et participatif.
 
 Le Réseau Social d'Échange et de Partage par la Valeur incarne une approche résolument tournée vers le développement durable. En s’appuyant sur les principes d’économie circulaire et solidaire, il permet aux agents de collaborer sans avoir recours à des intermédiaires financiers, tout en favorisant la transition vers une économie respectueuse de l'environnement​.
 
-Une technologie innovante : Les graphes monétaires
+# Une technologie innovante : Les graphes monétaires
 
 Le cœur de ce projet réside dans la mise en œuvre de graphes monétaires équilibrés. Ces graphes permettent de visualiser et d’équilibrer les flux de transactions entre les participants du réseau. Contrairement aux systèmes actuels qui reposent sur des dettes et des créances, le réseau propose une méthode transactionnelle où les échanges sont équilibrés dès leur programmation, créant ainsi un environnement d’échange sans monnaie privée ni créances​.
 
 Cette approche se fonde sur une logique de réciprocité et permet de créer un cadre dans lequel les transactions sont équitables et ne créent ni endettement ni accumulation de richesse par un petit groupe. En garantissant une balance équilibrée des paiements, le système encourage une distribution plus large des ressources et permet aux agents d'échanger directement leurs productions, leurs services et leurs valeurs​.
 
-Les bénéfices techniques et économiques du projet
+# Les bénéfices techniques et économiques du projet
 
 Scalabilité et sécurité
 
@@ -56,13 +56,13 @@ Contribution à l'économie verte
 
 En favorisant des échanges basés sur une utilisation fonctionnelle des ressources, ce projet contribue directement aux objectifs de développement durable. En effet, le modèle encourage l’utilisation durable des biens et des services, limitant ainsi les gaspillages et les destructions excessives de ressources naturelles​.
 
-Un appel à la collaboration mondiale
+# Un appel à la collaboration mondiale
 
 Nous invitons les développeurs, les experts financiers, les économistes, les acteurs de la gouvernance et les membres de la société civile mondiale à se joindre à ce projet. Ensemble, nous pouvons construire un système d'échange économique qui favorise l'inclusion, l'équité et la durabilité. Le projet est sous licence Creative Commons afin de garantir qu’il reste accessible à tous, modifiable et améliorable.
 
 Rejoignez-nous pour façonner l'avenir de l'économie mondiale, et participez à la construction d'un réseau qui redéfinit la manière dont la valeur est partagée et utilisée.
 
-Conclusion
+# Conclusion
 
 Le Réseau Social d'Échange et de Partage par la Valeur est bien plus qu’un simple projet technologique ou économique ; il est un appel à repenser la manière dont nous interagissons avec la monnaie et la valeur. En tant qu’outil d’inclusion sociale et économique, il a le potentiel de transformer profondément la société et de contribuer à un avenir plus juste, plus solidaire et plus durable.
 
