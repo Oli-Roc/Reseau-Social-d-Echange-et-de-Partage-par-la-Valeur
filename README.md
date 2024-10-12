@@ -2,7 +2,9 @@
 
 Introduction : Une révolution dans l'économie numérique
 
-Bienvenue dans un projet audacieux et transformateur qui vise à remodeler les fondements de l'échange économique dans le monde moderne. Le Réseau Social d'Échange et de Partage par la Valeur propose une nouvelle manière d'envisager les transactions financières et l'utilisation des ressources, en s'appuyant sur un modèle de droit d’usage monétaire. Ce réseau vise à offrir à chacun la possibilité de participer activement à une économie plus juste, inclusive, et durable. Basé sur des principes coopératifs et mutualistes, il repose sur un contrat intelligent qui garantit l’équilibre des paiements et offre un modèle scalable, sécurisé, et décentralisé.
+Bienvenue dans un projet audacieux et transformateur qui vise à remodeler les fondements de l'échange économique dans le monde moderne. 
+
+Le Réseau Social d'Échange et de Partage par la Valeur propose une nouvelle manière d'envisager les transactions financières et l'utilisation des ressources, en s'appuyant sur un modèle de droit d’usage monétaire. Ce réseau vise à offrir à chacun la possibilité de participer activement à une économie plus juste, inclusive, et durable. Basé sur des principes coopératifs et mutualistes, il repose sur un contrat intelligent qui garantit l’équilibre des paiements et offre un modèle scalable, sécurisé, et décentralisé.
 
 Notre objectif est de construire un écosystème où la monnaie n'est plus qu'un instrument exclusif et rival, mais devient un vecteur d'inclusion sociale et économique, garantissant à chaque membre de la communauté une part équitable de la valeur créée. Le projet, sous licence Creative Commons Legal Code (CC0 1.0 Universal), se veut entièrement open-source, invitant les développeurs, les experts financiers, les comptables et les acteurs de la gouvernance à contribuer à son évolution.
 
