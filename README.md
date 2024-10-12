@@ -1,7 +1,5 @@
 # Reseau-Social-d-Echange-et-de-Partage-par-la-Valeur
 
-Introduction : Une révolution dans l'économie numérique
-
 Bienvenue dans un projet audacieux et transformateur qui vise à remodeler les fondements de l'échange économique dans le monde moderne. 
 
 Le Réseau Social d'Échange et de Partage par la Valeur propose une nouvelle manière d'envisager les transactions financières et l'utilisation des ressources, en s'appuyant sur un protocle juridique et algorithmique de droit d’usage monétaire. Ce réseau vise à offrir à chacun la possibilité de participer activement à une économie plus juste, inclusive, et durable. Basé sur des principes coopératifs et mutualistes, il repose sur un contrat intelligent qui garantit l’équilibre des paiements et offre un modèle scalable, sécurisé, et décentralisé.
