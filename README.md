@@ -20,7 +20,7 @@ Le cœur du projet repose sur un contrat de gestion du droit d’usage monétair
 
 4. Une application informatique décentralisée
 
-Le projet prévoit le développement d’une application informatique open-source qui permettra de concrétiser le réseau d’échange à l'échelle mondiale. Cette application, évolutive et résiliente, permettra de visualiser les transactions, de gérer les comptes utilisateurs et d'assurer la sécurité des échanges grâce à des mécanismes avancés de cryptographie et de blockchain, notamment en utilisant des modèles inspirés du Lightning Network​.
+Le projet prévoit le développement d’une application informatique open-source qui permettra de concrétiser le réseau d’échange à l'échelle mondiale. Cette application, évolutive et résiliente, permettra de visualiser les transactions, de gérer les comptes utilisateurs et d'assurer la sécurité des échanges grâce à des mécanismes avancés de cryptographie et de blockchain, compatibles avec les principales solutions d'échanges décentralisés de notre époque tels que les Application Décentralisées (DAPP), les Protocoles d'Échanges Décentralisés (DEX) ou encore les Réseaux de Paiement de Seconde Couche (comme Lightning Network).
 
 5. Une gouvernance collaborative et transparente
 
