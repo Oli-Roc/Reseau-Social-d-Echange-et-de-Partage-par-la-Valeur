@@ -16,7 +16,7 @@ Le Réseau Social d'Échange et de Partage par la Valeur se distingue par sa cap
 
 3. Un contrat monétaire inclusif et non rival
 
-Le cœur du projet repose sur un contrat de gestion du droit d’usage monétaire, qui redéfinit la manière dont la monnaie est utilisée dans les échanges. Ce contrat est un modèle révolutionnaire de monnaie publique, non exclusive et non rivale, permettant de gérer l’ensemble des processus de constitution, d’échange et de gestion des droits d’usage monétaire​. En s'appuyant sur la théorie des graphes et des graphes monétaires équilibrés, ce système assure une distribution plus juste des ressources.
+Le cœur du projet repose sur un contrat de gestion du droit d’usage monétaire, qui redéfinit la manière dont la monnaie est utilisée dans les échanges. Ce contrat est un modèle révolutionnaire de monnaie publique, non exclusive et non rivale, permettant de gérer l’ensemble des processus de constitution, d’échange et de gestion des droits d’usage monétaire​. En s'appuyant sur la méthodologie des graphes monétaires pondérés et équilibrés, ce système assure une distribution plus juste des ressources.
 
 4. Une application informatique décentralisée
 
