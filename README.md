@@ -6,7 +6,7 @@ Cette approche révolutionne les échanges économiques en créant un réseau ba
 
 **1. Contexte et problématique**
 
-Les entreprises, collectivités et organisations détiennent une valeur économique considérable immobilisée dans leurs postes comptables : immobilisations, créances, stocks, provisions, et autres actifs sous-exploités. Ces ressources, bien que comptabilisées au bilan, restent inertes tant qu’elles ne sont pas monétisées ou transformées en capacité transactionnelle.
+Les entreprises, collectivités et organisations détiennent une valeur économique considérable immobilisée dans leurs postes comptables : immobilisations, créances, stocks, provisions, et autres actifs sous-exploités. Ces ressources, bien que comptabilisées au bilan, restent virtuelles et inertes tant qu’elles ne sont pas monétisées ou transformées en capacité transactionnelle.
 
 Le paradoxe est frappant : des sociétés peuvent détenir des millions d'euros en actifs non productifs, tout en rencontrant des difficultés de trésorerie pour financer leurs opérations courantes. Cette situation freine la croissance économique, entrave les échanges et perpétue une dépendance excessive aux circuits financiers traditionnels (prêts bancaires, levées de fonds).
 
