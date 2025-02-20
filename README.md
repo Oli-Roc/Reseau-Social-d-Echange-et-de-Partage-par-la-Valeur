@@ -74,11 +74,13 @@ Flux de Transaction :
 
 - NeuroSoft émet 200 000 DUM pour acheter des composants à GreenCom.
 
-- TechHealth paie NeuroSoft 200 000 DUM pour son logiciel.
+- GreenCom utilise 200 000 DUM pour acheter des prestations de conseil à TechHealth.
 
-- NeuroSoft utilise ces DUM pour payer GreenCom et ses fournisseurs.
+- TechHealth paie NeuroSoft 200 000 DUM pour développer son logiciel.
 
-- GreenCom utilise les DUM pour ses propres achats et pour payer ses sous-traitants.
+- NeuroSoft utilise les 200 000 DUM pour payer une dette à SoftWareco.
+
+- SoftWareco commande pour 200 000 DUM dix puces électroniques à NeuroSoft.
 
 Équilibre Global :
 
