@@ -28,39 +28,41 @@ La méthode repose sur une analyse rigoureuse des postes comptables mobilisables
 
 **Première étape : Identification des Postes Mobilisables :**
 
-Immobilisations (brevets, logiciels, équipements)
+- Immobilisations (brevets, logiciels, équipements)
 
-Créances clients (factures en attente)
+- Créances clients (factures en attente)
 
-Stocks (produits finis, matières premières)
+- Stocks (produits finis, matières premières)
 
-Provisions pour charges
+- Provisions pour charges
 
-Trésorerie excédentaire
+- Trésorerie excédentaire
 
-Autres actifs comptables vérifiables
+- Autres actifs comptables vérifiables
 
 **Deuxième étape : Valorisation et Émission de DUM :**
 
-Chaque poste mobilisable est valorisé sur la base des normes comptables en vigueur.
+- Chaque poste mobilisable est valorisé sur la base des normes comptables en vigueur.
 
-Les DUM sont émis à parité avec l’euro (1 DUM = 1 €) sans impact sur la valeur bilancielle.
+- Les DUM sont émis à parité avec l’euro (1 DUM = 1 €) sans impact sur la valeur bilancielle.
 
-Les immobilisations servent de garantie temporaire, libérée dès que la transaction est compensée.
+- Les immobilisations servent de garantie temporaire, libérée dès que la transaction est compensée.
 
 **Troiième étape : Construction du Graphe Transactionnel :**
 
-Nœuds : Entreprises, collectivités, fournisseurs, partenaires économiques.
+- Nœuds : Entreprises, collectivités, fournisseurs, partenaires économiques.
 
-Arcs : Transactions compensatoires entre les participants.
+- Arcs : Transactions compensatoires entre les participants.
 
-Pondérations : Montants échangés en DUM, équilibrés par des contreparties.
+- Pondérations : Montants échangés en DUM, équilibrés par des contreparties.
 
 **Quatrième étape : Compensation et Équilibrage :**
 
-Chaque transaction est validée si un flux retour équivalent est identifié.
+- Les transactions ne sont exécutables que si elles ont été préaablement équilibrées.
 
-Un algorithme de balance des paiements assure que les entrées et sorties restent équilibrées.
+- Cette approche transactionnelle compensatoire évite le recours au crédit et sécurise les engagements.
+
+- Un algorithme de balance des paiements assure que les entrées et sorties restent équilibrées.
 
 **4. Exemple chiffré : échange entre start-ups et fournisseurs**
 
