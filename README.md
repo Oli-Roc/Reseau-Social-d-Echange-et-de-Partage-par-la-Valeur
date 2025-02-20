@@ -26,7 +26,7 @@ Ainsi, le réseau social devient un véritable marché d'échange compensatoire,
 
 La méthode repose sur une analyse rigoureuse des postes comptables mobilisables et la mise en place d'un graphe transactionnel équilibré. Les étapes clés sont les suivantes :
 
-**Première étape : Identification des Postes Mobilisables :**
+**Première étape : identification des postes mobilisables :**
 
 - Immobilisations (brevets, logiciels, équipements)
 
@@ -40,7 +40,7 @@ La méthode repose sur une analyse rigoureuse des postes comptables mobilisables
 
 - Autres actifs comptables vérifiables
 
-**Deuxième étape : Valorisation et Émission de DUM :**
+**Deuxième étape : valorisation et émission de DUM :**
 
 - Chaque poste mobilisable est valorisé sur la base des normes comptables en vigueur.
 
@@ -48,7 +48,7 @@ La méthode repose sur une analyse rigoureuse des postes comptables mobilisables
 
 - Les immobilisations servent de garantie temporaire, libérée dès que la transaction est compensée.
 
-**Troiième étape : Construction du Graphe Transactionnel :**
+**Troiième étape : construction du graphe transactionnel :**
 
 - Nœuds : Entreprises, collectivités, fournisseurs, partenaires économiques.
 
@@ -56,7 +56,7 @@ La méthode repose sur une analyse rigoureuse des postes comptables mobilisables
 
 - Pondérations : Montants échangés en DUM, équilibrés par des contreparties.
 
-**Quatrième étape : Compensation et Équilibrage :**
+**Quatrième étape : compensation et équilibrage :**
 
 - Les transactions ne sont exécutables que si elles ont été préaablement équilibrées.
 
@@ -100,13 +100,13 @@ Chaque agent reste en équilibre parfait sur ses entrées et ses sorties, tout e
 
 - Négociation renforcée : La sécurité des transactions permet d'obtenir de meilleures conditions commerciales.
 
-**B. Pour les Fournisseurs et Prestataires :**
+**B. Pour les fournisseurs et prestataires :**
 
 - Paiement garanti : Les DUM assurent un règlement immédiat, sécurisé par les postes comptables.
 
 - Accès élargi au marché : Les fournisseurs peuvent échanger avec un écosystème élargi, favorisant la croissance économique.
 
-**C. Pour les Collectivités et Institutions :**
+**C. Pour les collectivités et institutions :**
 
 - Optimisation budgétaire : Mobilisation des postes comptables pour financer des projets publics sans recourir à l'endettement.
 
@@ -148,7 +148,7 @@ Le modèle proposé peut s'étendre à divers écosystèmes économiques :
 
 Grâce à l'intégration de systèmes multi-agents, le réseau peut évoluer pour intégrer des milliers de participants, créant une économie de la valeur compensée, résiliente et indépendante des circuits financiers traditionnels.
 
-**9. Conclusion : Une nouvelle économie de la valeur partagée**
+**9. Conclusion : une nouvelle économie de la valeur partagée**
 
 Le projet de réseau social d'échange et de partage de la valeur basé sur la monétisation des postes comptables représente une révolution économique :
 
