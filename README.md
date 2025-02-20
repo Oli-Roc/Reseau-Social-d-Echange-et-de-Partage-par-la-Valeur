@@ -26,7 +26,7 @@ Ainsi, le réseau social devient un véritable marché d'échange compensatoire,
 
 La méthode repose sur une analyse rigoureuse des postes comptables mobilisables et la mise en place d'un graphe transactionnel équilibré. Les étapes clés sont les suivantes :
 
-**1. Identification des Postes Mobilisables :**
+**Première étape : Identification des Postes Mobilisables :**
 
 Immobilisations (brevets, logiciels, équipements)
 
@@ -40,7 +40,7 @@ Trésorerie excédentaire
 
 Autres actifs comptables vérifiables
 
-**2. Valorisation et Émission de DUM :**
+**Deuxième étape : Valorisation et Émission de DUM :**
 
 Chaque poste mobilisable est valorisé sur la base des normes comptables en vigueur.
 
@@ -48,7 +48,7 @@ Les DUM sont émis à parité avec l’euro (1 DUM = 1 €) sans impact sur la v
 
 Les immobilisations servent de garantie temporaire, libérée dès que la transaction est compensée.
 
-**3. Construction du Graphe Transactionnel :**
+**Troiième étape : Construction du Graphe Transactionnel :**
 
 Nœuds : Entreprises, collectivités, fournisseurs, partenaires économiques.
 
@@ -56,7 +56,7 @@ Arcs : Transactions compensatoires entre les participants.
 
 Pondérations : Montants échangés en DUM, équilibrés par des contreparties.
 
-**4. Compensation et Équilibrage :**
+**Quatrième étape : Compensation et Équilibrage :**
 
 Chaque transaction est validée si un flux retour équivalent est identifié.
 
@@ -66,19 +66,7 @@ Un algorithme de balance des paiements assure que les entrées et sorties resten
 
 Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacune leurs immobilisations incorporelles (brevets, R&D, logiciels) à hauteur de 3 millions d'euros, soit un total de 180 millions d'euros.
 
-Postes Comptables Mobilisés :
-
-Poste Comptable	      Valeur Totale (€)	DUM Émis (€)	Utilisation
-
-Immobilisations	      180 000 000	      120 000 000	  Garantie de transaction
-
-Créances Clients	      9 000 000       	6 000 000  	Avance sur factures
-
-Stocks	                6 000 000       	4 000 000 	Financement des coûts
-
-Trésorerie            	1 800 000	        1 200 000 	Salaires partiels
-
-Total des DUM Émis	  196 800 000     	131 200 000	-
+![image](https://github.com/user-attachments/assets/7e3a245f-718f-4d22-9c7f-4abc1a375fd6)
 
 Flux de Transaction :
 
@@ -92,15 +80,7 @@ GreenCom utilise les DUM pour ses propres achats et pour payer ses sous-traitant
 
 Équilibre Global :
 
-Agent	        Entrées (DUM)	Sorties (DUM)	Solde Final
-
-NeuroSoft	    200 000	      200 000	      0
-
-TechHealth  	200 000	      200 000	      0
-
-GreenCom	    200 000	      200 000	      0
-
-SoftWareCo   	200 000	      200 000	      0
+![image](https://github.com/user-attachments/assets/342d3518-03e2-443d-8dda-b55dca132c5a)
 
 Chaque agent reste en équilibre parfait, sans décaissement ni endettement.
 
