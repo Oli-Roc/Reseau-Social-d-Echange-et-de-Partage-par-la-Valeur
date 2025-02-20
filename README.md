@@ -26,7 +26,7 @@ Ainsi, le réseau social devient un véritable marché d'échange compensatoire,
 
 La méthode repose sur une analyse rigoureuse des postes comptables mobilisables et la mise en place d'un graphe transactionnel équilibré. Les étapes clés sont les suivantes :
 
-Identification des Postes Mobilisables :
+**1. Identification des Postes Mobilisables :**
 
 Immobilisations (brevets, logiciels, équipements)
 
@@ -40,30 +40,43 @@ Trésorerie excédentaire
 
 Autres actifs comptables vérifiables
 
-Valorisation et Émission de DUM :
+**2. Valorisation et Émission de DUM :**
 
 Chaque poste mobilisable est valorisé sur la base des normes comptables en vigueur.
+
 Les DUM sont émis à parité avec l’euro (1 DUM = 1 €) sans impact sur la valeur bilancielle.
+
 Les immobilisations servent de garantie temporaire, libérée dès que la transaction est compensée.
-Construction du Graphe Transactionnel :
+
+**3. Construction du Graphe Transactionnel :**
 
 Nœuds : Entreprises, collectivités, fournisseurs, partenaires économiques.
+
 Arcs : Transactions compensatoires entre les participants.
+
 Pondérations : Montants échangés en DUM, équilibrés par des contreparties.
-Compensation et Équilibrage :
+
+**4. Compensation et Équilibrage :**
 
 Chaque transaction est validée si un flux retour équivalent est identifié.
+
 Un algorithme de balance des paiements assure que les entrées et sorties restent équilibrées.
 
 **4. Exemple chiffré : échange entre start-ups et fournisseurs**
 Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacune leurs immobilisations incorporelles (brevets, R&D, logiciels) à hauteur de 3 millions d'euros, soit un total de 180 millions d'euros.
 
 Postes Comptables Mobilisés :
+
 Poste Comptable	      Valeur Totale (€)	DUM Émis (€)	Utilisation
+
 Immobilisations	      180 000 000	      120 000 000	  Garantie de transaction
+
 Créances Clients	      9 000 000       	6 000 000  	Avance sur factures
+
 Stocks	                6 000 000       	4 000 000 	Financement des coûts
+
 Trésorerie            	1 800 000	        1 200 000 	Salaires partiels
+
 Total des DUM Émis	  196 800 000     	131 200 000	-
 
 Flux de Transaction :
