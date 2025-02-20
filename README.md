@@ -24,7 +24,7 @@ Ce système repose sur un graphe transactionnel pondéré, où chaque nœud repr
   
 - Capacité transactionnelle universelle : Les participants peuvent régler n'importe quel produit ou service, indépendamment de la nature de l'actif mobilisé.
   
-- Traçabilité et transparence : Les échanges sont enregistrés sur une infrastructure blockchain privée, assurant la sécurité et l’intégrité des flux.
+- Traçabilité et transparence : Les échanges sont enregistrés sur une infrastructure blockchain publique telle que Avalanche ou Ethereum, assurant la sécurité et l’intégrité des flux.
   
 Ainsi, le réseau social devient un véritable marché d'échange compensatoire, où la valeur circulaire est créée et préservée, favorisant des interactions économiques durables et résilientes.
 
