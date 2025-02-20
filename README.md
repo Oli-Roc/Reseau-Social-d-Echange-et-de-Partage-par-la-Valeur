@@ -30,7 +30,9 @@ Ainsi, le réseau social devient un véritable marché d'échange compensatoire,
 
 **3. Méthode de la configuration optimale : principes clés**
 
-La méthode repose sur une analyse rigoureuse des postes comptables mobilisables et la mise en place d'un graphe transactionnel équilibré. L'objectif est de faire émerger un circuit d'échange équilibré basé sur les capacités et les bersoins des participants, pouvant de répondre à l'ensemble de leurs objectifs. Les étapes clés sont les suivantes :
+La méthode repose sur une analyse rigoureuse des postes comptables mobilisables et la mise en place d'un graphe transactionnel équilibré. L'objectif est de faire émerger un circuit d'échange équilibré et de générer une capacité de transaction optimale basée sur les capacités et les besoins des participants, pouvant répondre à l'ensemble de leurs objectifs. 
+
+Les étapes clés sont les suivantes :
 
 **Première étape : identification des postes mobilisables :**
 
