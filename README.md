@@ -1,6 +1,8 @@
 # 🌐 Projet de Réseau Social d'Échange et de Partage de la Valeur (RSEPV) basé sur la monétisation des postes comptables par la méthode de la configuration optimale
 
-**Le Réseau Social d'Échange et de Partage par la Valeur** est un projet de finance décentralisée (DeFi) basé sur les principes coopératifs qui transforme les actifs et les passifs comptables en capacité transactionnelle, sans endettement ni dilution de capital. En mobilisant les postes comptables sous forme de Droits d’Usage Monétaire (DUM), chaque organisation privée ou publique peut produire, échanger, financer et collaborer au sein d’un écosystème équilibré, sécurisé par un graphe transactionnel compensatoire. Cette approche révolutionne les échanges économiques en créant un réseau où la valeur circule librement, favorisant la résilience, l'inclusion financière et le développement durable.
+**Le Réseau Social d'Échange et de Partage par la Valeur** est un projet de finance décentralisée (DeFi) basé sur les principes coopératifs qui transforme les actifs et les passifs comptables en capacité transactionnelle, sans endettement ni dilution de capital. En mobilisant les postes comptables sous forme de Droits d’Usage Monétaire (DUM), chaque organisation privée ou publique peut produire, échanger, financer et collaborer au sein d’un écosystème équilibré, sécurisé par un graphe transactionnel compensatoire. 
+
+Cette approche révolutionne les échanges économiques en créant un réseau où la valeur circule librement, favorisant la résilience, l'inclusion financière et le développement durable.
 
 **1. Contexte et problématique**
 
