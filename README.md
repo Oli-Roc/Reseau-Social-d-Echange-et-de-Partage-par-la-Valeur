@@ -30,7 +30,7 @@ Ainsi, le réseau social devient un véritable marché d'échange compensatoire,
 
 **3. Méthode de la configuration optimale : principes clés**
 
-Le marché est un principe abstrait qui produit un espace d'échange général entre des agents atomisés. Sa principale faiblesse est qu'il ne créé aucune organisation des échanges. 
+Le marché est un principe abstrait qui produit un espace d'échange général entre des agents atomisés. Sa principale faiblesse est qu'il ne crée aucune organisation des échanges. 
 
 L'approche que nous proposons est organisationnelle car elle vise à faire apparaître la configuration d'échange optimale dans un ensemble réel d'agents ou dans un sous-ensemble réel d'agents. 
 
@@ -60,7 +60,7 @@ Pour produire cette configration optimale, la méthode repose sur une analyse ri
 
 - Les immobilisations servent de garantie temporaire, libérée dès que la transaction est compensée.
 
-**Troiième étape : construction du graphe transactionnel :**
+**Troisième étape : construction du graphe transactionnel :**
 
 - Nœuds : Entreprises, collectivités, fournisseurs, partenaires économiques.
 
