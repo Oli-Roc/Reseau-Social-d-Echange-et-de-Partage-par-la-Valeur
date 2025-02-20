@@ -29,11 +29,17 @@ La méthode repose sur une analyse rigoureuse des postes comptables mobilisables
 Identification des Postes Mobilisables :
 
 Immobilisations (brevets, logiciels, équipements)
+
 Créances clients (factures en attente)
+
 Stocks (produits finis, matières premières)
+
 Provisions pour charges
+
 Trésorerie excédentaire
+
 Autres actifs comptables vérifiables
+
 Valorisation et Émission de DUM :
 
 Chaque poste mobilisable est valorisé sur la base des normes comptables en vigueur.
