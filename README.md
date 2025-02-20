@@ -30,7 +30,9 @@ Ainsi, le réseau social devient un véritable marché d'échange compensatoire,
 
 **3. Méthode de la configuration optimale : principes clés**
 
-Le marché est un principe abstrait qui produit un espace d'échange général entre des agents atomisés. Sa principale faiblesse est qu'il ne créé aucune organisation des échanges. Dans le marché, il existe un ensemble d'agents avec des capacités et des besoins extrêmement diversifiés et avec des intérêts et des objectifs tout aussi différents et souvent antagonistes. Ces agents sont dépendants d'un certain milieu social et naturel avec lequel ils sont en interaction permanente. 
+Le marché est un principe abstrait qui produit un espace d'échange général entre des agents atomisés. Sa principale faiblesse est qu'il ne créé aucune organisation des échanges. 
+
+Dans le marché, il existe un ensemble d'agents avec des capacités et des besoins extrêmement diversifiés et avec des intérêts et des objectifs tout aussi différents et souvent antagonistes. Ces agents sont dépendants d'un certain milieu social et naturel avec lequel ils sont en interaction permanente. 
 
 L'approche que nous proposons est organisationnelle car elle vise à faire apparaître la configuration d'échange optimale dans un ensemble réel d'agents ou dans un sous-ensemble réel d'agents. Pour produire cette configration optimale, la méthode repose sur une analyse rigoureuse des données comptables des agents qui contiennent l'information interne à l'entreprise mais également l'information sur ses externalités (notamment si nous sommes dans un RSE). La méthode utlise également une information contextuelle sur le milieu et les événements qui l'affectent.
 
