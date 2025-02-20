@@ -72,13 +72,13 @@ Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacu
 
 Flux de Transaction :
 
-NeuroSoft émet 200 000 DUM pour acheter des composants à GreenCom.
+- NeuroSoft émet 200 000 DUM pour acheter des composants à GreenCom.
 
-TechHealth paie NeuroSoft 200 000 DUM pour son logiciel.
+- TechHealth paie NeuroSoft 200 000 DUM pour son logiciel.
 
-NeuroSoft utilise ces DUM pour payer GreenCom et ses fournisseurs.
+- NeuroSoft utilise ces DUM pour payer GreenCom et ses fournisseurs.
 
-GreenCom utilise les DUM pour ses propres achats et pour payer ses sous-traitants.
+- GreenCom utilise les DUM pour ses propres achats et pour payer ses sous-traitants.
 
 Équilibre Global :
 
@@ -90,59 +90,59 @@ Chaque agent reste en équilibre parfait, sans décaissement ni endettement.
 
 **A. Pour les Entreprises et Start-Ups :**
 
-Liquidité immédiate : Accès à une capacité transactionnelle égale à la valeur mobilisable des actifs, sans affectation du bilan.
+- Liquidité immédiate : Accès à une capacité transactionnelle égale à la valeur mobilisable des actifs, sans affectation du bilan.
 
-Financement sans dette : Les DUM ne constituent pas un crédit, mais un droit compensatoire basé sur des actifs réels.
+- Financement sans dette : Les DUM ne constituent pas un crédit, mais un droit compensatoire basé sur des actifs réels.
 
-Gestion optimisée de la trésorerie : Les factures sont payées immédiatement, sans attendre les délais traditionnels.
+- Gestion optimisée de la trésorerie : Les factures sont payées immédiatement, sans attendre les délais traditionnels.
 
-Négociation renforcée : La sécurité des transactions permet d'obtenir de meilleures conditions commerciales.
+- Négociation renforcée : La sécurité des transactions permet d'obtenir de meilleures conditions commerciales.
 
 **B. Pour les Fournisseurs et Prestataires :**
 
-Paiement garanti : Les DUM assurent un règlement immédiat, sécurisé par les postes comptables.
+- Paiement garanti : Les DUM assurent un règlement immédiat, sécurisé par les postes comptables.
 
-Accès élargi au marché : Les fournisseurs peuvent échanger avec un écosystème élargi, favorisant la croissance économique.
+- Accès élargi au marché : Les fournisseurs peuvent échanger avec un écosystème élargi, favorisant la croissance économique.
 
 **C. Pour les Collectivités et Institutions :**
 
-Optimisation budgétaire : Mobilisation des postes comptables pour financer des projets publics sans recourir à l'endettement.
+- Optimisation budgétaire : Mobilisation des postes comptables pour financer des projets publics sans recourir à l'endettement.
 
-Suivi transparent : Les échanges sont tracés, sécurisés et accessibles via une plateforme blockchain privée.
+- Suivi transparent : Les échanges sont tracés, sécurisés et accessibles via une plateforme blockchain privée.
 
 **6. Architecture technique et sécurisation des transactions**
 
-L'infrastructure repose sur une solution blockchain privée assurant la traçabilité, l'intégrité et la confidentialité des transactions.
+- L'infrastructure repose sur une solution blockchain privée assurant la traçabilité, l'intégrité et la confidentialité des transactions.
 
-Blockchain Privée : Enregistrement de chaque transaction sous forme de double écriture comptable.
+- Blockchain Privée : Enregistrement de chaque transaction sous forme de double écriture comptable.
 
-Smart Contracts : Exécution automatique des paiements compensés une fois la balance équilibrée.
+- Smart Contracts : Exécution automatique des paiements compensés une fois la balance équilibrée.
 
-API Comptable : Intégration directe avec les logiciels de gestion comptable pour la vérification des postes mobilisables.
+- API Comptable : Intégration directe avec les logiciels de gestion comptable pour la vérification des postes mobilisables.
 
-Fonds de Garantie : Un fonds tampon permet la conversion des DUM en euros si nécessaire, assurant la liquidité.
+- Fonds de Garantie : Un fonds tampon permet la conversion des DUM en euros si nécessaire, assurant la liquidité.
 
 **7. Gouvernance et régulation**
 
-Le projet repose sur un modèle de gouvernance distribué, où chaque participant conserve le contrôle de ses actifs tout en respectant les règles du réseau :
+- Le projet repose sur un modèle de gouvernance distribué, où chaque participant conserve le contrôle de ses actifs tout en respectant les règles du réseau :
 
-Vérification des Actifs : Les postes mobilisables sont audités selon les normes comptables en vigueur.
+- Vérification des Actifs : Les postes mobilisables sont audités selon les normes comptables en vigueur.
 
-Régulation par l’Équilibre : Les transactions sont autorisées uniquement si elles respectent l’équilibre des flux.
+- Régulation par l’Équilibre : Les transactions sont autorisées uniquement si elles respectent l’équilibre des flux.
 
-Gestion des Risques : Le graphe transactionnel bloque toute transaction susceptible de créer un déséquilibre.
+- Gestion des Risques : Le graphe transactionnel bloque toute transaction susceptible de créer un déséquilibre.
 
 **8. Portée économique et scalabilité**
 
 Le modèle proposé peut s'étendre à divers écosystèmes économiques :
 
-Entreprises Industrielles : Monétisation des stocks et brevets pour financer la chaîne d'approvisionnement.
+- Entreprises Industrielles : Monétisation des stocks et brevets pour financer la chaîne d'approvisionnement.
 
-Agriculture : Mobilisation des récoltes futures pour financer les intrants et les équipements.
+- Agriculture : Mobilisation des récoltes futures et des immobilisations pour financer les intrants et les équipements.
 
-Secteur Public : Financement de projets par la valeur des infrastructures existantes.
+- Secteur Public : Financement de projets par la valeur des infrastructures existantes.
 
-Économie Sociale et Solidaire : Accès au financement pour les initiatives à impact.
+- Économie Sociale et Solidaire : Accès au financement pour les initiatives à impact.
 
 Grâce à l'intégration de systèmes multi-agents, le réseau peut évoluer pour intégrer des milliers de participants, créant une économie de la valeur compensée, résiliente et indépendante des circuits financiers traditionnels.
 
@@ -150,13 +150,13 @@ Grâce à l'intégration de systèmes multi-agents, le réseau peut évoluer pou
 
 Le projet de réseau social d'échange et de partage de la valeur basé sur la monétisation des postes comptables représente une révolution économique :
 
-Pour les entreprises : Un financement immédiat sans dette.
+- Pour les entreprises : Un financement immédiat sans dette.
 
-Pour les collectivités : Une capacité d'investissement élargie.
+- Pour les collectivités : Une capacité d'investissement élargie.
 
-Pour les partenaires économiques : Une sécurité transactionnelle renforcée.
+- Pour les partenaires économiques : Une sécurité transactionnelle renforcée.
 
-Pour l'économie globale : Une résilience fondée sur la mobilisation des ressources existantes.
+- Pour l'économie globale : Une résilience fondée sur la mobilisation des ressources existantes.
 
 En transformant les bilans en capacités transactionnelles, cette solution ouvre la voie à une économie circulaire, coopérative et durable, où la valeur n’est plus accumulée mais partagée au service de l’innovation, du développement et de la prospérité collective.
 
