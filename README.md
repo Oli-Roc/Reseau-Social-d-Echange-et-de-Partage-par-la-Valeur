@@ -18,10 +18,14 @@ L'objectif est de créer un réseau social économique basé sur la mobilisation
 
 Ce système repose sur un graphe transactionnel pondéré, où chaque nœud représente un agent économique (entreprise, fournisseur, client) et chaque arc une transaction en DUM, équilibrée par un flux compensatoire. Contrairement aux circuits financiers traditionnels, ici :
 
-Pas de décaissement d'actif : Les DUM sont émis sur la base de la valeur comptable, sans vendre les actifs sous-jacents.
-Pas d'endettement : Chaque transaction est exécutée uniquement si une contrepartie équivalente est identifiée, garantissant un équilibre systémique.
-Capacité transactionnelle universelle : Les participants peuvent régler n'importe quel produit ou service, indépendamment de la nature de l'actif mobilisé.
-Traçabilité et transparence : Les échanges sont enregistrés sur une infrastructure blockchain privée, assurant la sécurité et l’intégrité des flux.
+- Pas de décaissement d'actif : Les DUM sont émis sur la base de la valeur comptable, sans vendre les actifs sous-jacents.
+  
+- Pas d'endettement : Chaque transaction est exécutée uniquement si une contrepartie équivalente est identifiée, garantissant un équilibre systémique.
+  
+- Capacité transactionnelle universelle : Les participants peuvent régler n'importe quel produit ou service, indépendamment de la nature de l'actif mobilisé.
+  
+- Traçabilité et transparence : Les échanges sont enregistrés sur une infrastructure blockchain privée, assurant la sécurité et l’intégrité des flux.
+  
 Ainsi, le réseau social devient un véritable marché d'échange compensatoire, où la valeur circulaire est créée et préservée, favorisant des interactions économiques durables et résilientes.
 
 **3. Méthode de la configuration optimale : principes clés**
