@@ -72,7 +72,7 @@ Les étapes clés sont les suivantes :
 
 - Un algorithme de balance des paiements assure que les entrées et sorties restent équilibrées.
 
-**4. Exemple chiffré : échange entre start-ups et fournisseurs**
+**4. Exemple chiffré : échange de prestations entre start-ups**
 
 Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacune leurs immobilisations incorporelles (brevets, R&D, logiciels) à hauteur de 3 millions d'euros, soit un total de 180 millions d'euros.
 
