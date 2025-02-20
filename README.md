@@ -86,7 +86,7 @@ Flux de Transaction :
 
 ![image](https://github.com/user-attachments/assets/342d3518-03e2-443d-8dda-b55dca132c5a)
 
-Chaque agent reste en équilibre parfait, tout en finançant les transactions de son choix selon ses besoins et capacités réelles.
+Chaque agent reste en équilibre parfait sur ses entrées et ses sorties, tout en finançant les transactions de son choix selon ses besoins et capacités réelles.
 
 **5. Avantages pour les participants**
 
