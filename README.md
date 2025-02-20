@@ -36,7 +36,7 @@ L'approche que nous proposons est organisationnelle car elle vise à faire appar
 
 Pour produire cette configration optimale, la méthode repose sur une analyse rigoureuse des données comptables des agents qui contiennent l'information interne à l'entreprise mais également l'information sur ses externalités (notamment si nous sommes dans un RSE). La méthode utlise également une information contextuelle sur le milieu et les événements qui l'affectent. La méthode de la configuration optimale vise ainsi à identifier les postes comptables mobilisables chez chacun des agents pour produire une nouvelle capacité transactionnelle individuelle et collective aboutissant à la mise en place d'un graphe transactionnel équilibré. Dans cette approche contextualisée et organisationnelle, l'objectif est de faire émerger un circuit d'échange équilibré basé sur l'analyse des ressources comptables des participants. Le graphe d'échange est équilibré quand il permet de programmer un circuit d'échange compensatoire entre tous les agents. 
 
-Les étapes clés sont les suivantes :
+**4. Les étapes clés de création du circuit d'échange compensatoire**
 
 **Première étape : identification des postes mobilisables :**
 
@@ -76,7 +76,7 @@ Les étapes clés sont les suivantes :
 
 - Un algorithme de balance des paiements assure que les entrées et sorties restent équilibrées.
 
-**4. Exemple chiffré : échange de prestations entre start-ups**
+**5. Exemple chiffré : échange de prestations entre start-ups**
 
 Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacune leurs immobilisations incorporelles (brevets, R&D, logiciels) à hauteur de 3 millions d'euros, soit un total de 180 millions d'euros.
 
@@ -100,7 +100,7 @@ Flux de Transaction :
 
 Chaque agent reste en équilibre parfait sur ses entrées et ses sorties, tout en finançant les transactions de son choix selon ses besoins et capacités réelles.
 
-**5. Avantages pour les participants**
+**6. Avantages pour les participants**
 
 **A. Pour les Entreprises et Start-Ups :**
 
@@ -124,7 +124,7 @@ Chaque agent reste en équilibre parfait sur ses entrées et ses sorties, tout e
 
 - Suivi transparent : Les échanges sont tracés, sécurisés et accessibles via une plateforme blockchain privée.
 
-**6. Architecture technique et sécurisation des transactions**
+**7. Architecture technique et sécurisation des transactions**
 
 - L'infrastructure repose sur une solution blockchain privée assurant la traçabilité, l'intégrité et la confidentialité des transactions.
 
@@ -136,7 +136,7 @@ Chaque agent reste en équilibre parfait sur ses entrées et ses sorties, tout e
 
 - Fonds de Garantie : Un fonds tampon permet la conversion des DUM en euros si nécessaire, assurant la liquidité.
 
-**7. Gouvernance et régulation**
+**8. Gouvernance et régulation**
 
 - Le projet repose sur un modèle de gouvernance distribué, où chaque participant conserve le contrôle de ses actifs tout en respectant les règles du réseau :
 
@@ -146,7 +146,7 @@ Chaque agent reste en équilibre parfait sur ses entrées et ses sorties, tout e
 
 - Gestion des Risques : Le graphe transactionnel bloque toute transaction susceptible de créer un déséquilibre.
 
-**8. Portée économique et scalabilité**
+**9. Portée économique et scalabilité**
 
 Le modèle proposé peut s'étendre à divers écosystèmes économiques :
 
@@ -160,7 +160,7 @@ Le modèle proposé peut s'étendre à divers écosystèmes économiques :
 
 Grâce à l'intégration de systèmes multi-agents, le réseau peut évoluer pour intégrer des milliers de participants, créant une économie de la valeur compensée, résiliente et indépendante des circuits financiers traditionnels.
 
-**9. Conclusion : une nouvelle économie de la valeur partagée**
+**10. Conclusion : une nouvelle économie de la valeur partagée**
 
 Le projet de réseau social d'échange et de partage de la valeur basé sur la monétisation des postes comptables représente une révolution économique :
 
