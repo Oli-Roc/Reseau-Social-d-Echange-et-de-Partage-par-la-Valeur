@@ -63,6 +63,7 @@ Chaque transaction est validée si un flux retour équivalent est identifié.
 Un algorithme de balance des paiements assure que les entrées et sorties restent équilibrées.
 
 **4. Exemple chiffré : échange entre start-ups et fournisseurs**
+
 Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacune leurs immobilisations incorporelles (brevets, R&D, logiciels) à hauteur de 3 millions d'euros, soit un total de 180 millions d'euros.
 
 Postes Comptables Mobilisés :
@@ -140,6 +141,7 @@ API Comptable : Intégration directe avec les logiciels de gestion comptable pou
 Fonds de Garantie : Un fonds tampon permet la conversion des DUM en euros si nécessaire, assurant la liquidité.
 
 **7. Gouvernance et régulation**
+
 Le projet repose sur un modèle de gouvernance distribué, où chaque participant conserve le contrôle de ses actifs tout en respectant les règles du réseau :
 
 Vérification des Actifs : Les postes mobilisables sont audités selon les normes comptables en vigueur.
@@ -149,6 +151,7 @@ Régulation par l’Équilibre : Les transactions sont autorisées uniquement si
 Gestion des Risques : Le graphe transactionnel bloque toute transaction susceptible de créer un déséquilibre.
 
 **8. Portée économique et scalabilité**
+
 Le modèle proposé peut s'étendre à divers écosystèmes économiques :
 
 Entreprises Industrielles : Monétisation des stocks et brevets pour financer la chaîne d'approvisionnement.
@@ -162,6 +165,7 @@ Secteur Public : Financement de projets par la valeur des infrastructures exista
 Grâce à l'intégration de systèmes multi-agents, le réseau peut évoluer pour intégrer des milliers de participants, créant une économie de la valeur compensée, résiliente et indépendante des circuits financiers traditionnels.
 
 **9. Conclusion : Une nouvelle économie de la valeur partagée**
+
 Le projet de réseau social d'échange et de partage de la valeur basé sur la monétisation des postes comptables représente une révolution économique :
 
 Pour les entreprises : Un financement immédiat sans dette.
