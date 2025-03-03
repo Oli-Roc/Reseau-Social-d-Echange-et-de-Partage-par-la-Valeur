@@ -82,7 +82,11 @@ Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacu
 
 ![image](https://github.com/user-attachments/assets/7e3a245f-718f-4d22-9c7f-4abc1a375fd6)
 
+Chaque entreprise peut potentiellement budgétiser 2 millions d'euros de droit d'usage monétaire pour acheter et vendre de la valeur auprès des autres membres du réseau. 
+
 Flux de Transaction :
+
+Imaginons un groupe de cinq entreprises qui fait un test avec un capital commun de 200.000 euros donnant droit à 200.000 euros de droits d'usage monétaire.
 
 - NeuroSoft émet 200 000 DUM pour acheter des composants à GreenCom.
 
