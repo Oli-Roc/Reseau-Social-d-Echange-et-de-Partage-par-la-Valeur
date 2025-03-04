@@ -109,7 +109,7 @@ Voici un exemple d'affectation non uniforme des flux dans un graphe complet à 5
 
 Nous désignons nos nœuds par A, B, C, D et E. La répartition des flux  pour cet exemple est la suivante :
 
-![image](https://github.com/user-attachments/assets/134ead2d-1631-439a-b92b-687918f6fbd8)
+![image](https://github.com/user-attachments/assets/ffa81dfb-64cb-43f2-8b37-aae7828c3eaa)
 
 Chaque entreprise reste en équilibre parfait sur ses entrées et ses sorties. Chacune gère un budget de 200.000 euros afin de financer les transactions de son choix selon ses besoins tout en répondant au financement des transactions d'autrui avec ses capacités réelles.
 
