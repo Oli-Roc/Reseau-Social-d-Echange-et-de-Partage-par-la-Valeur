@@ -107,10 +107,13 @@ Imaginons un groupe de cinq entreprises qui dispose de 200.000 euros de droits d
 
 Voici un exemple d'affectation non uniforme des flux dans un graphe complet à 5 nœuds, de telle sorte que chaque nœud possède une capacité totale de 200 000 euros, répartie entre ses 4 arcs sortants, lui demandant d’acheter pour 200.000 euros et de vendre pour 200.000 euros en effectuant les transactions de son choix. 
 
-Nous désignons nos nœuds par A, B, C, D et E. La répartition proposée est la suivante :
-Équilibre Global :
+Nous désignons nos nœuds par A, B, C, D et E. La répartition des flux  pour cet exemple est la suivante :
+
 ![image](https://github.com/user-attachments/assets/724d5fcd-e959-4564-aa97-107881485573)
+
 Chaque entreprise reste en équilibre parfait sur ses entrées et ses sorties. Chacune gère un budget de 200.000 euros afin de financer les transactions de son choix selon ses besoins tout en répondant au financement des transactions d'autrui avec ses capacités réelles.
+
+![image](https://github.com/user-attachments/assets/444d465e-d496-4077-9824-39b7371cfc8f)
 
 **6. Avantages pour les participants**
 
