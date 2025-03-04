@@ -87,19 +87,24 @@ Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacu
 ![image](https://github.com/user-attachments/assets/7e3a245f-718f-4d22-9c7f-4abc1a375fd6)
 Rien qu'avec le poste des immobilisations, chaque entreprise peut budgétiser 2 millions d'euros de droit d'usage monétaire pour acheter et vendre de la valeur auprès des autres membres du réseau. 
 
-Flux de Transaction :
+**A. Création du capital transactionnel :**
 
 Un groupe de 5 entreprises décide de tester le concept sur une valeur commune de 200.000 euros pour ouvrir un nouvel espace d’échange et intensifier les coopérations.
 
 Imaginons un groupe de cinq entreprises qui dispose de 200.000 euros de droits d'usage monétaire.
 
 •	A. NeuroSoft (start-up technologique)
+
 •	B. TechHealth (client)
+
 •	C. GreenCom (fournisseur de composants électroniques)
+
 •	D. SoftWareCo (prestataire IT)
+
 •	E. CoolSoft (éditeur de logiciels)
 
-Flux des transactions :
+**Flux des transactions dans un graphe cyclique :**
+
 Voici un exemple d'affectation non uniforme des flux dans un graphe complet à 5 nœuds, de telle sorte que chaque nœud possède une capacité totale de 200 000 euros, répartie entre ses 4 arcs sortants, lui demandant d’acheter pour 200.000 euros et de vendre pour 200.000 euros en effectuant les transactions de son choix. 
 
 Nous désignons nos nœuds par A, B, C, D et E. La répartition proposée est la suivante :
