@@ -103,7 +103,7 @@ Imaginons un groupe de cinq entreprises qui fait un test avec un capital commun 
 
 Équilibre Global :
 
-![image](https://github.com/user-attachments/assets/342d3518-03e2-443d-8dda-b55dca132c5a)
+![image](https://github.com/user-attachments/assets/724d5fcd-e959-4564-aa97-107881485573)
 Chaque entreprise reste en équilibre parfait sur ses entrées et ses sorties. Chacune gère un budget de 200.000 euros afin de financer les transactions de son choix selon ses besoins tout en répondant au financement des transactions d'autrui avec ses capacités réelles.
 
 **6. Avantages pour les participants**
