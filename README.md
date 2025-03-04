@@ -24,7 +24,7 @@ Contrairement aux circuits financiers traditionnels, ici :
   
 - Capacité transactionnelle universelle : Les participants peuvent régler n'importe quel produit ou service, indépendamment de la nature de l'actif mobilisé.
 
-- Capacité transactionnelle homogène : Les participants peuvent convenir de se doter d'une même capacité transactionnelle pour faciliter la conclusion d'accord 
+- Capacité transactionnelle homogène : Les participants peuvent convenir de se doter d'une même capacité transactionnelle pour faciliter la conclusion d'accords. 
 
 - Pas d'endettement : Les transactions ne sont exécutées que si chacun des agents a équilibré préalablement sa balance des paiements.
   
