@@ -28,7 +28,7 @@ Contrairement aux circuits financiers traditionnels, ici :
   
 - Traçabilité et transparence : Les échanges sont enregistrés sur une infrastructure blockchain publique telle que Avalanche ou Ethereum, assurant la sécurité et l’intégrité des flux.
   
-Ainsi, le réseau social devient un véritable marché d'échange compensatoire, où la valeur circulaire est créée et préservée, favorisant des interactions économiques durables et résilientes.
+Ainsi, le réseau social devient un véritable marché d'échange de réciprocité, où la valeur circulaire est créée et préservée, favorisant des interactions économiques durables et résilientes.
 
 **3. Méthode de la configuration optimale : principes clés**
 
