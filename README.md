@@ -89,20 +89,21 @@ Rien qu'avec le poste des immobilisations, chaque entreprise peut budgétiser 2 
 
 Flux de Transaction :
 
-Imaginons un groupe de cinq entreprises qui fait un test avec un capital commun de 200.000 euros donnant droit à 200.000 euros de droits d'usage monétaire.
+Un groupe de 5 entreprises décide de tester le concept sur une valeur commune de 200.000 euros pour ouvrir un nouvel espace d’échange et intensifier les coopérations.
 
-- NeuroSoft émet 200 000 DUM pour acheter des composants à GreenCom.
+Imaginons un groupe de cinq entreprises qui dispose de 200.000 euros de droits d'usage monétaire.
 
-- GreenCom utilise 200 000 DUM pour acheter des prestations de conseil à TechHealth.
+•	A. NeuroSoft (start-up technologique)
+•	B. TechHealth (client)
+•	C. GreenCom (fournisseur de composants électroniques)
+•	D. SoftWareCo (prestataire IT)
+•	E. CoolSoft (éditeur de logiciels)
 
-- TechHealth paie NeuroSoft 200 000 DUM pour développer son logiciel.
+Flux des transactions :
+Voici un exemple d'affectation non uniforme des flux dans un graphe complet à 5 nœuds, de telle sorte que chaque nœud possède une capacité totale de 200 000 euros, répartie entre ses 4 arcs sortants, lui demandant d’acheter pour 200.000 euros et de vendre pour 200.000 euros en effectuant les transactions de son choix. 
 
-- NeuroSoft utilise les 200 000 DUM pour payer une dette à SoftWareco.
-
-- SoftWareco commande pour 200 000 DUM dix puces électroniques à NeuroSoft.
-
+Nous désignons nos nœuds par A, B, C, D et E. La répartition proposée est la suivante :
 Équilibre Global :
-
 ![image](https://github.com/user-attachments/assets/724d5fcd-e959-4564-aa97-107881485573)
 Chaque entreprise reste en équilibre parfait sur ses entrées et ses sorties. Chacune gère un budget de 200.000 euros afin de financer les transactions de son choix selon ses besoins tout en répondant au financement des transactions d'autrui avec ses capacités réelles.
 
