@@ -111,7 +111,7 @@ Nous désignons nos nœuds par A, B, C, D et E. La répartition des flux  pour c
 
 ![image](https://github.com/user-attachments/assets/f799a31b-1889-4bb9-9d59-b6ae57d6e148)
 
-Chaque entreprise reste en équilibre parfait sur ses entrées et ses sorties. Chacune gère un budget de 200.000 euros afin de financer les transactions de son choix selon ses besoins tout en répondant au financement des transactions d'autrui avec ses capacités réelles.
+Chaque entreprise reste en équilibre parfait sur ses entrées et ses sorties. Chacune gère un budget de 200.000 euros afin de financer les transactions de son choix pour répondre à ses besoins tout en participant au financement des transactions d'autrui avec ses capacités réelles.
 
 **6. Avantages pour les participants**
 
