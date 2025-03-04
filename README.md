@@ -22,7 +22,7 @@ Contrairement aux circuits financiers traditionnels, ici :
 
 - Pas de décaissement d'actif : Les DUM sont émis sur la base de la valeur comptable, sans vendre les actifs sous-jacents.
   
-- Pas d'endettement : Chaque transaction est exécutée uniquement si une contrepartie équivalente est identifiée, garantissant un équilibre systémique.
+- Pas d'endettement : Les transactions ne sont exécutées que si chacun des agents a équilibré préalablement sa balance des paiements. 
   
 - Capacité transactionnelle universelle : Les participants peuvent régler n'importe quel produit ou service, indépendamment de la nature de l'actif mobilisé.
   
