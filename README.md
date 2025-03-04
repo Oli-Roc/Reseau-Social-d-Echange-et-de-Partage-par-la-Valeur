@@ -87,7 +87,7 @@ Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacu
 ![image](https://github.com/user-attachments/assets/7e3a245f-718f-4d22-9c7f-4abc1a375fd6)
 Rien qu'avec le poste des immobilisations, chaque entreprise peut budgétiser 2 millions d'euros de droit d'usage monétaire pour acheter et vendre de la valeur auprès des autres membres du réseau. 
 
-**A. Création du capital transactionnel :**
+**Création du capital transactionnel :**
 
 Un groupe de 5 entreprises décide de tester le concept sur une valeur commune de 200.000 euros pour ouvrir un nouvel espace d’échange et intensifier les coopérations.
 
