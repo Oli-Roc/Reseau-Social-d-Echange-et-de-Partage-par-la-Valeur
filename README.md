@@ -12,7 +12,7 @@ Le paradoxe est frappant : des sociétés peuvent détenir des millions d'euros 
 
 Le projet proposé repose sur une solution innovante : la monétisation des postes comptables par la méthode de la configuration optimale, permettant la création d’un réseau social transactionnel fondé sur des droits d’usage monétaire (DUM). Cette approche permet de mobiliser la valeur comptable sans vente d'actif, dilution de capital ni endettement.
 
-**2. Vision du projet : un écosystème transactionnel coopératif**
+**2. Vision du projet : un système d'échange coopératif**
 
 L'objectif est de créer un réseau social économique basé sur la mobilisation des actifs comptables sous-utilisés, permettant à chaque participant – entreprises, institutions, collectivités – de convertir ses postes comptables mobilisables en droits d’usage monétaire (DUM) pour financer ses achats et ses ventes de manière transparente et équilibrée au sein d'un réseau d'échange coopératif.
 
