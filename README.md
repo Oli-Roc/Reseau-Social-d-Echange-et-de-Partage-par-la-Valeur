@@ -26,7 +26,7 @@ Contrairement aux circuits financiers traditionnels, ici :
 
 - Capacité transactionnelle homogène : Les participants peuvent convenir de se doter d'une même capacité transactionnelle pour faciliter la conclusion d'accords. 
 
-- Pas d'endettement : Les transactions ne sont exécutées que si chacun des agents a équilibré préalablement sa balance des paiements.
+- Pas de crédit ni d'endettement : Les transactions ne sont exécutées que si chacun des agents a équilibré préalablement sa balance des paiements.
   
 - Traçabilité et transparence : Les échanges sont enregistrés sur une infrastructure blockchain publique telle que Avalanche ou Ethereum, assurant la sécurité et l’intégrité des flux.
   
