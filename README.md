@@ -16,7 +16,7 @@ Le projet proposé repose sur une solution innovante : la monétisation des post
 
 L'objectif est de créer un réseau social économique basé sur la mobilisation des actifs comptables sous-utilisés, permettant à chaque participant – entreprises, institutions, collectivités – de convertir ses postes comptables mobilisables en droits d’usage monétaire (DUM) pour financer ses achats et ses ventes de manière transparente et équilibrée au sein d'un réseau d'échange coopératif.
 
-Ce système repose sur un graphe transactionnel cyclique et pondéré, où chaque nœud représente un agent économique (entreprise, fournisseur, client) et chaque arc une transaction en DUM. Le principe de ce système d'échange coopératif est que conformément à la règle mathématique de construction des graphes cycliques, chaque agent peut disposer d'une capacité de financement sans limite dès lors qu'il s'engage à équilbrer ses flux entrants et ses flux sortants dans sa balance des paiements. 
+Ce système repose sur un graphe transactionnel cyclique et pondéré, où chaque nœud représente un agent économique (entreprise, fournisseur, client) et chaque arc une transaction en DUM. Le principe de ce système d'échange coopératif est que conformément à la règle mathématique de construction des graphes cycliques, chaque agent peut disposer d'une capacité de financement sans limite dès lors qu'il s'engage à équilibrer ses flux entrants et ses flux sortants dans sa balance des paiements. 
 
 Contrairement aux circuits financiers traditionnels, ici :
 
