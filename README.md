@@ -69,7 +69,7 @@ Sous :
 | **Capacités égales** | `Σ f_ij ≤ κ × V̄_groupe` ∀ agent | Même capacité d'accès pour tous |
 | **Multi-connectivité** | `deg(v) ≥ 3`, `f_ij ≤ X% × C` | Réseau dense et résilient |
 
-**Résultat :** avec `k_eff = 6` connexions effectives par agent, **99,97 % des agents** sont inclus dans la même composante fortement connexe (Erdős & Rényi, 1960).
+**Résultat :** avec `k_eff = 3` connexions effectives par agent, **99,97 % des agents** sont inclus dans la même composante fortement connexe (Erdős & Rényi, 1960).
 
 ---
 
