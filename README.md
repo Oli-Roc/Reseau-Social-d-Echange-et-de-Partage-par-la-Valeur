@@ -1,195 +1,367 @@
-# 🌐 Projet de Réseau Social d'Échange et de Partage de la Valeur (RSEPV) basé sur la monétisation des postes comptables par la méthode de la configuration optimale
+# 🔄 Graphe d'Échange Cyclique Capacitaire (GECC)
 
-**Le Réseau Social d'Échange et de Partage par la Valeur** est un projet de finance décentralisée (DeFi) basé sur les principes coopératifs qui transforme les actifs et les passifs comptables en capacité transactionnelle, sans endettement ni dilution de capital. En mobilisant les postes comptables sous forme de Droits d’Usage Monétaire (DUM), chaque organisation privée ou publique peut produire, échanger, financer et collaborer au sein d’un écosystème équilibré, sécurisé par un graphe transactionnel cyclique. 
+> **La monnaie est un lien, pas un bien. La valeur se conserve dans la circulation, pas dans l'accumulation.**
+> — *Théorie de l'Échange Juste, Rocca (2024)*
 
-Cette approche révolutionne les échanges économiques en créant un réseau basé sur le principe de réciprocité où la valeur circule librement, favorisant la résilience, l'inclusion financière et le développement durable.
+[![Licence](https://img.shields.io/badge/licence-open%20source%20copyleft-brightgreen)](LICENSE)
+[![Statut](https://img.shields.io/badge/statut-actif-success)]()
+[![Protocole](https://img.shields.io/badge/protocole-SECC%20v1.0-blue)]()
+[![Fondement](https://img.shields.io/badge/fondement-théorie%20des%20graphes-orange)]()
+[![Compatible](https://img.shields.io/badge/compatible-PCG%20%7C%20IFRS%20%7C%20US%20GAAP-lightgrey)]()
 
-**1. Contexte et problématique**
+---
 
-Les entreprises, collectivités et organisations détiennent une valeur économique considérable immobilisée dans leurs postes comptables : immobilisations, créances, stocks, provisions, et autres actifs sous-exploités. Ces ressources, bien que comptabilisées au bilan, restent virtuelles et inertes tant qu’elles ne sont pas monétisées ou transformées en capacité transactionnelle.
+## 🧭 En une phrase
 
-Le paradoxe est frappant : des sociétés peuvent détenir des millions d'euros en actifs non productifs, tout en rencontrant des difficultés de trésorerie pour financer leurs opérations courantes. Cette situation freine la croissance économique, entrave les échanges et perpétue une dépendance excessive aux circuits financiers traditionnels (prêts bancaires, levées de fonds).
+Le GECC est un **système de compensation économique multilatérale décentralisé**, fondé sur la théorie mathématique des graphes orientés, qui permet à n'importe quel groupe d'agents d'organiser leurs échanges de valeur **sans intermédiaire monétaire**, **sans dette**, **sans exclusion**, à toute échelle.
 
-Le projet proposé repose sur une solution innovante : la monétisation des postes comptables par la méthode de la configuration optimale, permettant la création d’un réseau social transactionnel fondé sur des droits d’usage monétaire (DUM). Cette approche permet de mobiliser la valeur comptable sans vente d'actif, dilution de capital ni endettement.
+---
 
-**2. Vision du projet : un système d'échange coopératif**
+## ⚡ Le problème que nous résolvons
 
-L'objectif est de créer un réseau social économique basé sur la mobilisation des actifs comptables sous-utilisés, permettant à chaque participant – entreprises, institutions, collectivités – de convertir ses postes comptables mobilisables en droits d’usage monétaire (DUM) pour financer ses achats et ses ventes de manière transparente et équilibrée au sein d'un réseau d'échange coopératif.
+Les systèmes monétaires existants — des devises fiat aux cryptomonnaies — reproduisent trois pathologies structurelles :
 
-Ce système repose sur un graphe transactionnel cyclique et pondéré, où chaque nœud représente un agent économique (entreprise, fournisseur, client) et chaque arc une transaction en DUM. Le principe de ce système d'échange coopératif est que conformément à la règle mathématique de construction des graphes cycliques, chaque agent peut disposer d'une capacité de financement sans limite dès lors qu'il s'engage à équilibrer ses flux entrants et ses flux sortants dans sa balance des paiements. 
+| Pathologie | Mécanisme | Impact |
+|---|---|---|
+| **Concentration** | La monnaie-bien s'accumule (r > g) | Les riches peuvent échanger, les autres non |
+| **Exclusion** | L'accès dépend de la solvabilité | 1,4 milliard de personnes non bancarisées |
+| **Destruction** | La dette génère des intérêts qui n'ont jamais été créés | Endettement structurel et crises en cascade |
 
-Contrairement aux circuits financiers traditionnels, ici :
+Ces pathologies ne sont pas des accidents — elles sont des **propriétés intrinsèques** d'un instrument monétaire traité comme un bien privatif et accumulable.
 
-- Pas de décaissement d'actif : Les DUM sont émis sur la base de la valeur comptable, sans vendre les actifs sous-jacents.
-  
-- Capacité transactionnelle universelle : Les participants peuvent régler n'importe quel produit ou service, indépendamment de la nature de l'actif mobilisé.
+Le GECC change l'instrument, pas les agents.
 
-- Capacité transactionnelle homogène : Les participants peuvent convenir de se doter d'une même capacité transactionnelle pour faciliter la conclusion d'accords. 
+---
 
-- Pas de crédit ni d'endettement : Les transactions ne sont exécutées que si chacun des agents a équilibré préalablement sa balance des paiements.
-  
-- Traçabilité et transparence : Les échanges sont enregistrés sur une infrastructure blockchain publique telle que Avalanche ou Ethereum, assurant la sécurité et l’intégrité des flux.
-  
-Ainsi, le réseau social devient un véritable marché d'échange de réciprocité, où la valeur circulaire est créée et préservée, favorisant des interactions économiques durables et résilientes.
+## 🔬 Comment ça marche — la rupture mathématique
 
-**3. Méthode de la configuration optimale : principes clés**
+### Le graphe comme monnaie
 
-Le marché est un principe abstrait qui produit un espace d'échange général entre des agents atomisés. Sa principale faiblesse est qu'il ne crée aucune organisation des échanges. 
+Le GECC représente l'économie sous la forme d'un **graphe orienté pondéré** `G = (V, E)` où :
+- **V** = ensemble des agents (nœuds)
+- **E** = arêtes de compatibilité transactionnelle orientées
+- **w(i→j)** = valeur de la transaction en unité de compte
 
-L'approche que nous proposons est organisationnelle car elle vise à faire apparaître la configuration d'échange optimale dans un ensemble réel d'agents. Pour produire cette configration optimale, la méthode repose sur une analyse rigoureuse des données comptables des agents qui contiennent l'information interne à l'entreprise mais également l'information sur ses externalités (notamment si nous sommes dans un RSE). La méthode utlise également une information contextuelle sur le milieu et les événements qui l'affectent. La méthode de la configuration optimale vise ainsi à identifier les postes comptables mobilisables chez chacun des agents pour produire une nouvelle capacité transactionnelle individuelle et collective aboutissant à la mise en place d'un graphe transactionnel équilibré. 
+Chaque échange potentiel est une arête. Chaque cycle fermé `A → B → C → A` est une **compensation multilatérale automatique**.
 
-Dans cette approche contextualisée et organisationnelle, l'objectif est de faire émerger un circuit d'échange équilibré basé sur l'analyse des ressources comptables des participants. Le graphe d'échange est équilibré quand il permet de programmer un circuit d'échange qui égalise les flux entrants et sortants de tous les agents. 
+### La transformation centrale — de NP-difficile à polynomial
 
-**4. Les étapes clés de création du circuit d'échange compensatoire**
+> Le problème de coordination économique multilatérale est NP-difficile dans sa formulation générale (Karp, 1972).
 
-**Première étape : identification des postes mobilisables :**
+Sous trois contraintes structurelles simples, il devient **un programme linéaire résolu en temps polynomial O(n × e × log n)** :
 
-- Immobilisations (brevets, logiciels, équipements)
+```
+Maximiser  Σ f(i→j)    ← valeur totale compensée
 
-- Créances clients (factures en attente)
+Sous :
+  Σ f_ji − Σ f_ij = 0   ∀ i   ← conservation des flux (Kirchhoff)
+  0 ≤ f_ij ≤ x_ij       ∀ (i,j) ← capacités bornées
+  |S_i| ≤ L_i            ∀ i   ← plafonds de solde
+```
 
-- Stocks (produits finis, matières premières)
+*Algorithme : Successive Shortest Paths (Klein, 1967)*
 
-- Provisions pour charges
+### Les trois contraintes qui font tout
 
-- Trésorerie excédentaire
+| Contrainte | Formule | Signification |
+|---|---|---|
+| **Balance équilibrée** | `Σ f_entrants = Σ f_sortants` ∀ agent | Ce qu'on reçoit = ce qu'on donne |
+| **Capacités égales** | `Σ f_ij ≤ κ × V̄_groupe` ∀ agent | Même capacité d'accès pour tous |
+| **Multi-connectivité** | `deg(v) ≥ 3`, `f_ij ≤ X% × C` | Réseau dense et résilient |
 
-- Autres actifs comptables vérifiables
+**Résultat :** avec `k_eff = 6` connexions effectives par agent, **99,97 % des agents** sont inclus dans la même composante fortement connexe (Erdős & Rényi, 1960).
 
-**Deuxième étape : valorisation et émission de DUM :**
+---
 
-- Chaque poste mobilisable est valorisé sur la base des normes comptables en vigueur.
+## 💰 L'argument économique
 
-- Les DUM sont émis à parité avec l’euro (1 DUM = 1 €) sans impact sur la valeur bilancielle.
+### Réduction du besoin en fonds de roulement
 
-- Les immobilisations servent de garantie temporaire, libérée dès que la transaction est compensée.
+Un réseau de 20 entreprises échangeant 100 000 € / mois :
 
-**Troisième étape : construction du graphe transactionnel :**
+```
+Système classique :  chaque entreprise immobilise 10 000–20 000 € de trésorerie
+Avec le GECC :       τ = 80% → chaque entreprise n'a besoin que de 1 000–2 000 € de provision
 
-- Nœuds : Entreprises, collectivités, fournisseurs, partenaires économiques.
+Économie de trésorerie : -85 à -90 %
+```
 
-- Arcs : Transactions compensatoires entre les participants.
+### La provision de couverture — la seule liquidité nécessaire
 
-- Pondérations : Montants échangés en DUM, équilibrés par des contreparties.
+```
+P_i = β × V^prog_i       avec β ∈ [10 %, 20 %]
+```
 
-**Quatrième étape : compensation et équilibrage :**
+`β` est **dynamique et auto-calibrant** : il diminue quand le réseau compense bien, augmente quand il compense moins bien. Aucune décision discrétionnaire requise.
 
-- Les transactions ne sont exécutables que si elles ont été préaablement équilibrées.
+### Les plafonds de solde asymétriques
 
-- Cette approche transactionnelle compensatoire évite le recours au crédit et sécurise les engagements.
+```
+Plafond de créance :   S_i ≤ α × V^prog_i   (α ∈ 30–50 %)
+Plafond de dette :     S_i ≥ −β × V^prog_i  (β ∈ 10–20 %)
+```
 
-- Un algorithme de balance des paiements assure que les entrées et sorties restent équilibrées.
+L'asymétrie reflète la différence réelle de risque entre excès de créances (compensable) et excès de dettes (risque de non-couverture).
 
-**5. Exemple chiffré : échange de prestations entre start-ups**
+### Indicateurs de performance cibles
 
-Imaginons un incubateur regroupant 60 start-ups technologiques, valorisant chacune leurs immobilisations incorporelles (brevets, R&D, logiciels) à hauteur de 3 millions d'euros, soit un total de 180 millions d'euros.
+| Indicateur | Formule | Seuil d'alerte | Cible maturité |
+|---|---|---|---|
+| Taux de compensation τ | Valeur compensée / Valeur déclarée | τ < 0,60 | τ > 0,85 |
+| Degré effectif k_eff | Σ deg(i) / n | k_eff < ln(n) | k_eff ≥ 6 |
+| Gini des soldes | Coeff. Gini sur soldes nets | > 0,40 | < 0,25 |
+| Ratio de couverture | Σ provisions / Σ dettes brutes | < β_cible | ≥ β_cible |
 
-![image](https://github.com/user-attachments/assets/7e3a245f-718f-4d22-9c7f-4abc1a375fd6)
-Rien qu'avec le poste des immobilisations, chaque entreprise peut budgétiser 2 millions d'euros de droit d'usage monétaire pour acheter et vendre de la valeur auprès des autres membres du réseau. 
+---
 
-**Création du capital transactionnel :**
+## 🌱 L'argument écologique
 
-Un groupe de 5 entreprises décide de tester le concept sur une valeur commune de 200.000 euros pour ouvrir un nouvel espace d’échange et intensifier les coopérations.
+### Le Donut intégré dans le graphe
 
-Imaginons un groupe de cinq entreprises qui dispose de 200.000 euros de droits d'usage monétaire.
+Le GECC intègre nativement la **théorie du Donut de Kate Raworth** sous forme de contraintes vectorielles :
 
-•	A. NeuroSoft (start-up technologique)
+```
+∀ i :      Σ Réceptions(i) ≥ σ_i          ← plancher social (vie digne garantie)
+∀ (i,j) :  ε(f_ij) ≤ ε_max                ← plafond écologique (limite planétaire)
+```
 
-•	B. TechHealth (client)
+Un échange n'est **valide dans le GECC** que s'il respecte **simultanément** ces deux contraintes. La transition écologique cesse d'être un objectif déclaratif — elle devient une **contrainte structurelle de chaque transaction**.
 
-•	C. GreenCom (fournisseur de composants électroniques)
+### La pondération carbone
 
-•	D. SoftWareCo (prestataire IT)
+```
+x_ij_effectif = x_ij × (1 − ω_ij)     avec ω_ij ∈ [0 ; 1] selon l'intensité carbone
+```
 
-•	E. CoolSoft (éditeur de logiciels)
+Les transactions à forte empreinte voient leur capacité effective réduite automatiquement. Les échanges durables sont favorisés **par la structure du système**, pas par la volonté individuelle.
 
-**Flux des transactions dans un graphe cyclique :**
+### Les biens privés vers les biens communs — une trajectoire programmée
 
-Voici un exemple d'affectation non uniforme des flux dans un graphe complet à 5 nœuds, de telle sorte que chaque nœud possède une capacité totale de 200 000 euros, répartie entre ses 4 arcs sortants, lui demandant d’acheter pour 200.000 euros et de vendre pour 200.000 euros en effectuant les transactions de son choix. 
+```
+Bien privé → Bien de club → Bien commun → Bien public
+```
 
-Nous désignons nos nœuds par A, B, C, D et E. La répartition des flux  pour cet exemple est la suivante :
+Cette trajectoire est **explicitement programmée** dans les paramètres d'allocation du moteur de cycles. Un agent qui mutualise un bien accède à un plafond de créance majoré de 20–30 %. La durabilité est **économiquement incitée**.
 
-![image](https://github.com/user-attachments/assets/f799a31b-1889-4bb9-9d59-b6ae57d6e148)
+---
 
-Chaque entreprise reste en équilibre parfait sur ses entrées et ses sorties. Chacune gère un budget de 200.000 euros afin de financer les transactions de son choix pour répondre à ses besoins tout en participant au financement des transactions d'autrui avec ses capacités réelles.
+## 🤝 L'argument social
 
-**6. Avantages pour les participants**
+### L'accès conditionné à la capacité productive réelle
 
-**A. Pour les Entreprises et Start-Ups :**
+Dans le GECC, la condition d'entrée dans le système passe de :
+- ❌ la **solvabilité préalable** (système classique)
+- ✅ la **capacité productive réelle déclarée** (GECC)
 
-- Liquidité immédiate : Accès à une capacité transactionnelle égale à la valeur mobilisable des actifs, sans affectation du bilan.
+Un paysan, un artisan, une association, une communauté sans accès bancaire peuvent participer **à égalité** avec une PME ou une collectivité territoriale.
 
-- Financement sans dette : Les DUM ne constituent pas un crédit, mais un droit compensatoire basé sur des actifs réels.
+### L'égalité des capacités transactionnelles
 
-- Gestion optimisée de la trésorerie : Les factures sont payées immédiatement, sans attendre les délais traditionnels.
+La propriété mathématique fondamentale : **un graphe à capacités égales** présente un potentiel connectif structurellement supérieur à un graphe à capacités inégales. L'égalité des droits d'accès n'est pas un compromis — c'est **une optimisation**.
 
-- Négociation renforcée : La sécurité des transactions permet d'obtenir de meilleures conditions commerciales.
+### Les huit principes d'Ostrom — transposés dans le graphe
 
-**B. Pour les fournisseurs et prestataires :**
+La gestion des biens communs dans le GECC respecte les huit principes d'Ostrom (1990) :
 
-- Paiement garanti : Les DUM assurent un règlement immédiat, sécurisé par les postes comptables.
+1. Définition claire des limites du bien commun
+2. Règles d'usage adaptées au contexte local
+3. Participation collective à la décision
+4. Surveillance effective par le registre du graphe
+5. Sanctions graduées (réduction des plafonds)
+6. Mécanismes de résolution des conflits
+7. Reconnaissance par les autorités extérieures
+8. Articulation avec les systèmes réglementaires existants
 
-- Accès élargi au marché : Les fournisseurs peuvent échanger avec un écosystème élargi, favorisant la croissance économique.
+---
 
-**C. Pour les collectivités et institutions :**
+## ⚖️ L'argument juridique et politique
 
-- Optimisation budgétaire : Mobilisation des postes comptables pour financer des projets publics sans recourir à l'endettement.
+### Nature juridique précise
 
-- Suivi transparent : Les échanges sont tracés, sécurisés et accessibles via une plateforme blockchain privée.
+Le GECC n'est **pas une monnaie** au sens de l'article L.111-1 du Code monétaire et financier. C'est une **convention de compensation multilatérale de créances** :
 
-**7. Architecture technique et sécurisation des transactions**
+```
+Régime applicable :
+  → Art. 1347 Code civil (compensation multilatérale)
+  → Directive 2002/47/CE (accords de garantie financière / netting)
+  → Directive 2011/7/UE (retards de paiement)
+```
 
-- L'infrastructure repose sur une solution blockchain privée assurant la traçabilité, l'intégrité et la confidentialité des transactions.
+**Aucune autorisation réglementaire spécifique n'est requise pour déployer le GECC.**
 
-- Blockchain Privée : Enregistrement de chaque transaction sous forme de double écriture comptable.
+### Structures juridiques hôtes
 
-- Smart Contracts : Exécution automatique des paiements compensés une fois la balance équilibrée.
+| Structure | Échelle | Avantages |
+|---|---|---|
+| Association loi 1901 | Locale → nationale | Souplesse, objet large |
+| SCOP / SCIC | Locale → régionale | Gouvernance démocratique, aides ESS |
+| GIE | Régionale → nationale | B2B, réduction BFR inter-entreprises |
+| Collectivité territoriale | Territoriale | CGCT, fonds publics, légitimité |
+| DAO | Globale | Smart contracts, automatisation |
+| Registre informel | Locale, pays émergents | Zéro capital initial |
 
-- API Comptable : Intégration directe avec les logiciels de gestion comptable pour la vérification des postes mobilisables.
+### La gouvernance décentralisée à trois niveaux
 
-- Fonds de Garantie : Un fonds tampon permet la conversion des DUM en euros si nécessaire, assurant la liquidité.
+```
+Niveau micro  →  Assemblée des agents (50–150 personnes, limite de Dunbar)
+                  Paramètres locaux, validation des profils, requalification des biens
 
-**8. Gouvernance et régulation**
+Niveau méso   →  Conseil de coordination (délégués élus)
+                  Cycles dominants, connexions inter-communautaires
 
-- Le projet repose sur un modèle de gouvernance distribué, où chaque participant conserve le contrôle de ses actifs tout en respectant les règles du réseau :
+Niveau macro  →  Comité de protocole
+                  Maintenance algorithmique, représentation institutionnelle
+```
 
-- Vérification des Actifs : Les postes mobilisables sont audités selon les normes comptables en vigueur.
+**Principe fondamental :** l'algorithme d'optimisation est **indépendant de la gouvernance politique**. La gouvernance fixe les paramètres — elle ne peut pas intervenir dans le résultat du calcul.
 
-- Régulation par l’Équilibre : Les transactions sont autorisées uniquement si elles respectent l’équilibre des flux.
+---
 
-- Gestion des Risques : Le graphe transactionnel bloque toute transaction susceptible de créer un déséquilibre.
+## 📐 Architecture technique
 
-**9. Portée économique et scalabilité**
+### Stack recommandée par phase
 
-Le modèle proposé peut s'étendre à divers écosystèmes économiques :
+| Phase | Participants | Outil | Capacité |
+|---|---|---|---|
+| 0 — Papier | ≤ 30 | Cahier + réunion physique | Pays émergents, rural |
+| 1 — Tableur | 30–100 | Excel/LibreOffice + macro | PME, associations |
+| 2 — Application web | 100–5 000 | Python/JS + BDD + interface | Coopératives, filières |
+| 3 — Registre distribué | Illimité | Blockchain / smart contracts + API | International |
 
-- Entreprises Industrielles : Monétisation des stocks et brevets pour financer la chaîne d'approvisionnement.
+### Compatibilité comptable
 
-- Agriculture : Mobilisation des récoltes futures et des immobilisations pour financer les intrants et les équipements.
+Le GECC est compatible avec **tous les systèmes comptables existants** (PCG, IFRS, US GAAP).
 
-- Secteur Public : Financement de projets par la valeur des infrastructures existantes.
+```
+Créance initiale :      Débit 411 Clients  /  Crédit 706 Prestations
+Dette initiale :        Débit 601 Achats   /  Crédit 401 Fournisseurs
+Compensation cyclique : Débit 401          /  Crédit 411  [valeur f(C)]
+Provision :             Débit 512 Banque   /  Crédit 4585 Provisions GECC
+```
 
-- Économie Sociale et Solidaire : Accès au financement pour les initiatives à impact.
+### Scalabilité
 
-Grâce à l'intégration de systèmes multi-agents, le réseau peut évoluer pour intégrer des milliers de participants, créant une économie de la valeur compensée, résiliente et indépendante des circuits financiers traditionnels.
+La décomposition hiérarchique garantit la scalabilité à toute échelle :
 
-**10. Conclusion : une nouvelle économie de la valeur partagée**
+```
+Complexité totale : O(n/c × T_local)
+  où c = taille des communautés (50–150)
+→ Tractable sur matériel ordinaire, quelle que soit la taille du réseau
+```
 
-Le projet de réseau social d'échange et de partage de la valeur basé sur la monétisation des postes comptables représente une révolution économique :
+---
 
-- Pour les entreprises : Un financement immédiat sans dette.
+## 🚀 Feuille de route de déploiement
 
-- Pour les collectivités : Une capacité d'investissement élargie.
+### Phase 1 — Amorçage `[0–6 mois | 10–50 participants]`
 
-- Pour les partenaires économiques : Une sécurité transactionnelle renforcée.
+```yaml
+structure:   Association loi 1901 ou convention informelle
+beta:        0.15
+tau_cible:   0.70
+plafond:     0.5 × V̄_groupe
+fenetre:     mensuelle
+outil:       registre papier ou tableur
+objectif:    identifier les 5–10 cycles récurrents
+succes:      τ > 0.60 au 6e mois
+```
 
-- Pour l'économie globale : Une résilience fondée sur la mobilisation des ressources existantes.
+### Phase 2 — Croissance `[6–24 mois | 50–500 participants]`
 
-En transformant les bilans en capacités transactionnelles, cette solution ouvre la voie à une économie circulaire, coopérative et durable, où la valeur n’est plus accumulée mais partagée au service de l’innovation, du développement et de la prospérité collective.
+```yaml
+structure:   SCOP ou SCIC
+beta:        dynamique (auto-calibrant)
+fenetre:     hebdomadaire
+outil:       application web + algorithme d'optimisation
+objectif:    k_eff > ln(n), premiers cycles dominants
+succes:      τ > 0.75, ≥ 3 cycles dominants
+```
 
-👉 Rejoignez le réseau et transformez la valeur dormante en capacité d'échange !
+### Phase 3 — Maturité `[après 24 mois | +500 participants]`
 
-📄 Licence : MIT
-💬 Contact : [RSEPV / GitHub]
-🌐 Site Web : [https://conseil-patrimonial.com]
+```yaml
+structure:   SCIC multi-parties ou DAO
+protocole:   complet (planchers sociaux + plafonds écologiques)
+outil:       plateforme distribuée, API ouverte, temps réel
+objectif:    autonomie et scalabilité complètes
+succes:      τ > 0.85, ≥ 1 projet collectif financé par cycles
+```
 
+---
+
+## 🌍 Applications sectorielles
+
+### Filières agricoles et alimentaires
+> Maraîchers × mécaniciens × transporteurs × restaurateurs → cycles courts à haute valeur compensable. Taux de compensation atteignable : **70–90 %** pour 30–50 participants.
+
+### Transition écologique
+> Valorisation économique des échanges invisibles dans le PIB classique : réparation, services de proximité, rénovation énergétique, gestion collective de ressources renouvelables.
+
+### Territoires et collectivités
+> La collectivité participe en tant qu'agent du réseau. Cadre légal : art. L.1511-1 CGCT, programme LEADER (fonds FEADER), conventions art. 1347 Code civil.
+
+### Filières industrielles et B2B
+> Réduction des délais de paiement, baisse du BFR proportionnelle à τ, renforcement de la résilience de la chaîne d'approvisionnement contre les défaillances en cascade.
+
+### Pays en développement
+> **Protocole minimal viable :** un registre (cahier), une fenêtre (réunion périodique), une provision (engagement oral). Compatible avec tontines, coopératives villageoises, associations de producteurs.
+
+---
+
+## 📚 Fondements théoriques
+
+### Mathématiques des graphes et optimisation
+- Minty, G.J. (1960) — Théorème de décomposition des circulations
+- Ford & Fulkerson (1956) — Théorème flot max / coupe min
+- Klein, M. (1967) — Successive Shortest Paths (algorithme central)
+- Erdős & Rényi (1960) — Transition de phase et composante géante
+- Karp, R.M. (1972) — Complexité NP-difficile de la couverture par cycles
+
+### Économie institutionnelle et théorie des communs
+- Ostrom, E. (1990) — *Governing the Commons*
+- Samuelson, P.A. (1954) — Classification des biens publics
+- Raworth, K. (2017) — *Doughnut Economics*
+- Piketty, T. (2013) — *Le Capital au XXIe siècle*
+- Axelrod, R. (1984) — *The Evolution of Cooperation*
+
+### Sources fondatrices du GECC
+- **Rocca, O. (2024)** — *La Théorie de l'Échange Juste, Tome 1 : Théorie et Principes.* Document open source, copyleft. 161 pages.
+- **Protocole SECC** — Cadre normatif, opérationnel et institutionnel complet pour le déploiement du Système d'Échange Cyclique Compensatoire.
+
+---
+
+## 🔐 Éthique et engagements
+
+Le GECC repose sur quatre engagements fondamentaux :
+
+1. **Non-exclusion** — Aucun agent n'est exclu sur la base de sa richesse, nationalité ou statut social.
+2. **Transparence radicale** — Tous les paramètres, résultats et décisions de gouvernance sont publics en temps réel.
+3. **Non-destruction** — Les biens échangés sont gérés selon les principes de durabilité et de renouvellement (abolition de l'*abusus* pour les biens communs et publics).
+4. **Réciprocité** — Tout agent qui reçoit s'engage à contribuer en retour dans les limites de ses capacités.
+
+---
+
+## 📄 Licence
+
+**Document open source — Copyleft — Libre de reproduction avec mention des auteurs.**
+
+Toute organisation déployant le GECC est invitée à partager ses résultats d'expérimentation avec la communauté des utilisateurs.
+
+*Citation requise :* Rocca, O. (2024). *La Théorie de l'Échange Juste.* Document open source. | *Graphe d'Échange Cyclique Capacitaire — corpus théorique complet.*
+
+---
+
+## 🤝 Contribuer
+
+Les contributions sont bienvenues sur tous les aspects du projet :
+
+- **Implémentations algorithmiques** (Python, Rust, JavaScript)
+- **Interfaces de gouvernance** (applications web, mobile)
+- **Smart contracts** (Ethereum, Substrate, Cosmos)
+- **Retours d'expérimentation** terrain (filières, coopératives, territoires)
+- **Traductions** et adaptations culturelles
+
+---
+
+*"Deux règles locales simples suffisent à rendre le problème global de coordination calculable de façon optimale sans coordinateur central."*
+*— Protocole SECC, Chapitre III*
